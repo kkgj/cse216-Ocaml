@@ -1,8 +1,3 @@
-(*
-	Gordon Zhong
-	112192897
-*)
-
 (*2.2*)
 type stack = 
 	| Node of int list;;
