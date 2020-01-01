@@ -1,8 +1,3 @@
-(*
-	Gordon Zhong
-	112192897
-*)
-
 (*2.1*)
 type bool_expr =
 	| Lit of string
