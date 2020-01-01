@@ -1,7 +1,3 @@
-(*
-	Gordon Zhong
-	112192897
-*)
 
 (*1.1*)
 let rec pow x n = match n with
